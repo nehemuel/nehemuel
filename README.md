@@ -4,7 +4,7 @@
 
 👋 **Hi!**
 
-I am a Computer Science student at PUCMM, currently working as a Technical Support at Importadora La Plaza, where I’m gaining hands-on experience in troubleshooting and system maintenance. Passionate about technology, innovation, and contributing to Open Source Projects
+I am a Computer Science student at PUCMM, currently working as a Technical Support at Importadora La Plaza, where I’m gaining hands-on experience in troubleshooting and system maintenance. Passionate about technology, innovation, and contributing to Open Source Projects.
 
 ### 🌱 What I'm Working On  
 
