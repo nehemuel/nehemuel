@@ -1,9 +1,3 @@
-<div>
-<a href="https://www.somedomain.com" target="_blank">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nehemuel García&section=header" alt="Example">
-</a>
-</div>
-
 # 👋 Hi, I'm @nehemuel  
 
 ### 👀 About Me  
