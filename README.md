@@ -20,8 +20,6 @@
 
 * Despite being a tech enthusiast, I’m exploring travel and discovering cities, people, and their cultures across my home country, the Dominican Republic (DR) 🇩🇴.  
 
----
-
 
 
 <!---
