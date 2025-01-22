@@ -12,7 +12,7 @@ I am a Computer Science student at PUCMM, currently working as a Technical Suppo
 
 ### 🤝 I'm looking to collaborate on  
 
-- **Open Source Projects** related to **Linux** or **Embedded Systems**.  
+- **Open Source Projects** related to Linux or Embedded Systems.  
 
 ### 📫 How to Reach Me  
 
