@@ -2,7 +2,7 @@
 
 ### 👀 About Me  
 
- Currently working as a Technical Support at Importadora La Plaza, where I’m gaining hands-on experience in troubleshooting and system maintenance. Passionate about technology, innovation, and contributing to Open Source Projects.
+ Currently working as an IT Support Specialist at Importadora La Plaza, where I’m gaining hands-on experience in troubleshooting and system maintenance. I’m passionate about technology, innovation, and contributing to open-source projects.
 
 ### 🌱 What I'm Working On  
 
